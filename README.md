@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aniket Kakde</h1>
 <h3 align="center">A passionate Devops Engineer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketkakde09" alt="aniketkakde09" /></a> </p>
-
 - 🔭 I’m currently working with **Datamato Technologies for One of the major bank in India**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AniketKakde09?tab=repositories](https://github.com/AniketKakde09?tab=repositories)

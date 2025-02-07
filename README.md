@@ -1,27 +1,113 @@
-<h1 align="center">Hi 👋, I'm Aniket Kakde</h1>
-<h3 align="center">A passionate Devops Engineer from India</h3>
+<h1 align="center">
+Hello 👋, I'm Aniket Kakde
+</h1>
 
-- 🔭 I’m currently working with **Datamato Technologies for One of the major bank in India**
+<h3 align="center">
+DevOps Engineer | Streamlining Deployments & Infrastructure Automation
+</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/AniketKakde09?tab=repositories](https://github.com/AniketKakde09?tab=repositories)
+<hr>
 
-- 📝 I regularly write articles on [https://hashnode.com/@aniket-kakde?source=feed-profile-clicked](https://hashnode.com/@aniket-kakde?source=feed-profile-clicked)
+<h3 align="center">🏆 Experience</h3>
+<p align="center">
+  <strong>DevOps Engineer</strong> at <b>Datamato Technologies</b> (2021 - Present)<br>
 
-- 💬 Ask me about **IBM DevOps Deploy, Shell Scripting**
-
-- 📫 How to reach me **aniketkakde9699@gmail.com**
-
-- ⚡ Fun fact **I don’t just fix issues—I automate them out of existence!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aniket-kakde-927095190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket-kakde-927095190" height="30" width="40" /></a>
-<a href="https://instagram.com/aniket.kakde.009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aniket.kakde.009" height="30" width="40" /></a>
+- 🚀 Automated CI/CD pipelines for WebLogic, Tomcat, IIS, JBOSS, Nginx, Kubernetes, and AKS. Reduced manual errors by 50% and deployment time by 40%.
+- 🔧 Developed a Java plugin for IBM UCD, cutting data retrieval time from 2 days to 30 minutes.
+- 📜 Automated 160+ application deployments, backups, and rollbacks using Shell scripting.
+- 🤖 Created custom Ansible modules, improving automation efficiency by 25%.
+- ☁️ Provisioned AWS & VMware infrastructure using Terraform, reducing setup time by 40%.
+- 🔄 Developed WebLogic, OHS & IBM MQ patching solution, saving 2+ hours per VM.
+- ✅ Built a deployment verification solution for 5+ environments, saving 4+ hours per app.
+- 🏗️ Delivered POC for DB deployments and integrated IBM MQ, Salesforce, and OutSystems.
+- 👥 Led daily stand-ups, improving incident response time by 30%.
+<br>   
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+<hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketkakde09&show_icons=true&locale=en&layout=compact" alt="aniketkakde09" /></p>
+<h3 align="center">🛠️ Tech Stack</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketkakde09&show_icons=true&locale=en" alt="aniketkakde09" /></p>
+<p align="center">
+  <table>
+    <tr>
+      <th>Category</th>
+      <th>Technologies</th>
+    </tr>
+    <tr>
+      <td><b>CI/CD</b></td>
+      <td>Jenkins, GitHub Actions, IBM UCD</td>
+    </tr>
+    <tr>
+      <td><b>Containers</b></td>
+      <td>Docker, Kubernetes, AKS</td>
+    </tr>
+    <tr>
+      <td><b>IaC</b></td>
+      <td>Terraform, Ansible</td>
+    </tr>
+    <tr>
+      <td><b>Cloud</b></td>
+      <td>AWS, Azure</td>
+    </tr>
+    <tr>
+      <td><b>Scripting</b></td>
+      <td>Bash, Groovy, Python</td>
+    </tr>
+    <tr>
+      <td><b>Middleware</b></td>
+      <td>WebLogic, Tomcat, JBOSS, Windows IIS, Nginx, Apache, IBM API Connect</td>
+    </tr>
+  </table>
+</p>
+
+<hr>
+
+<h3 align="center">🎓 Education</h3>
+
+<p align="center"> 
+🎯 <strong>Bachelor of Engineering (B.E) in Computer Science</strong><br>
+<a href="https://moderncoe.edu.in/">🏛️ Progressive Education Society's college of engineering, Savitribai Phule University, Pune, India<br>
+</a>
+📅 2017 - 2021  
+<p>
+
+<hr>
+
+<h3 align="center">
+  <b>📚 My Blog Posts</b>
+</h3>
+
+<table align="center">
+  <tr>
+    <th>📖 Blog Title</th>
+    <th>📝 Description</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://aniket-kakde-ibm-mq-patching.hashnode.dev/devops-strategies-for-ibm-mq-patching-in-the-bfsi-industry">
+        ✍ <b>DevOps Strategies for IBM MQ Patching in the BFSI Industry</b>
+      </a>
+    </td>
+    <td>
+      ⮞ Discover effective DevOps strategies for IBM MQ patching in the BFSI industry.  
+      Learn about patch types, processes, automation benefits, and practical tips to  
+      enhance security and efficiency in messaging systems.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://ibm-devops-deploy-custom-plugin-development.hashnode.dev/ibm-devops-deploy-ibm-urbancode-deploy-custom-plugin-development">
+        ✍ <b>IBM DevOps Deploy (IBM UrbanCode Deploy) Custom Plugin Development</b>
+      </a>
+    </td>
+    <td>
+      ⮞ Discover how to develop custom plugins for IBM UrbanCode Deploy with this  
+      comprehensive guide. Learn step-by-step instructions, best practices, and  
+      optimization tips to enhance your deployment automation.
+    </td>
+  </tr>
+</table>
+
+
+<hr>
